@@ -1,5 +1,6 @@
 # Git & Github
-### git: an open source, distributed version-control system
+### Git: 
+an open source, distributed version-control system
 ### GitHub:  a platform for hosting and collaborating on Git repositories
 ### commit: a Git object, a snapshot of your entire repository compressed into a SHA
 ### branch: a lightweight movable pointer to a commit
